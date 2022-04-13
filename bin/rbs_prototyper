@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ruby ./lib/rbs_prototyper.rb $1 $2
